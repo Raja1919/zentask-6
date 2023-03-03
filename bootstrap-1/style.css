@@ -1,0 +1,26 @@
+
+    h1 {
+        color:rgb(233, 233, 252);
+        text-align:center;
+    }
+    h2 {
+        color:rgb(58, 6, 163);
+    }
+    p{
+        color: white;
+    }
+    body{
+        background:linear-gradient(to right,#bdc3c7,#2c3e50);
+    }
+   
+    .navbar-brand{
+        color: #fff;
+        font-size: 1.9rem;
+        font-weight: bold;
+    }
+    .nav-link{
+        color: #ffffff;
+        font-size: 1.3rem;
+        font-weight: bold;
+    }
+   
